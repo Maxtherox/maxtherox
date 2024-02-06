@@ -3,13 +3,16 @@
 [![Meu site](https://img.shields.io/website?url=https%3A%2F%2Fmodpacks.com.br%2F&up_message=UP&style=for-the-badge&label=modpacks.com.br)](https://modpacks.com.br)
 [![Meu site](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guimaxtr/)
 
-## Sobre mim
+## Sobre mim ✨
 
 Tenho 25 anos, sou entusiasta por hardware e tecnologia, meu foco é dia a dia melhorar a vida das pessoas através do desenvolvimento de software.
 
-### Curiosidades
+#### Curiosidades 🤓
 
 Sou apaixonado por desenvolvimento de jogos e fã de carteirinha por RPG.
+
+## Formação Acadêmica 🎓
+**Tecnólogo**: Analise e desenvolvimento de sistemas na universidade **Estácio** ✅ 2023
 
 
 ## Tecnologias que eu uso
@@ -28,6 +31,7 @@ Sou apaixonado por desenvolvimento de jogos e fã de carteirinha por RPG.
     <img align="center" alt=".NET" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
     <img align="center" alt=".NET" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" />
     <img align="center" alt=".NET" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+    <img align="center" alt=".NET" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
 </div>
 
 ## Tecnologias que tenho conhecimento
@@ -45,6 +49,14 @@ Sou apaixonado por desenvolvimento de jogos e fã de carteirinha por RPG.
     <img align="center" alt=".NET" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
     <img align="center" alt=".NET" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
     <img align="center" alt=".NET" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+    <img align="center" alt=".NET" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+    <img align="center" alt=".NET" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
+    <img align="center" alt=".NET" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img align="center" alt=".NET" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
+    <img align="center" alt=".NET" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+    <img align="center" alt=".NET" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" />
+    <img align="center" alt=".NET" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+    <img align="center" alt=".NET" src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" />
 </div>
 
 ## Workspace specs
