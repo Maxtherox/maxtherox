@@ -1,6 +1,6 @@
 ### Hello World! Guilherme aqui 🫡
 
-[![Meu site](https://img.shields.io/website?url=https%3A%2F%2Fguilhermejp.com%2F&up_message=UP&style=for-the-badge&label=modpacks.com.br)](https://guilhermejp.com)
+[![Meu site](https://img.shields.io/website?url=https%3A%2F%2Fguilhermejp.com%2F&up_message=UP&style=for-the-badge&label=guilhermejp.com)](https://guilhermejp.com)
 [![Meu site](https://img.shields.io/website?url=https%3A%2F%2Fmodpacks.com.br%2F&up_message=UP&style=for-the-badge&label=modpacks.com.br)](https://modpacks.com.br)
 [![Meu site](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guimaxtr/)
 
