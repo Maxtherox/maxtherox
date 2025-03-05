@@ -1,16 +1,30 @@
 ### Hello World! Guilherme aqui 🫡
 
-[![Meu site](https://img.shields.io/website?url=https%3A%2F%2Fmodpacks.com.br%2F&up_message=UP&style=for-the-badge&label=modpacks.com.br)](https://guilhermejp.com)
+[![Meu site](https://img.shields.io/website?url=https%3A%2F%2Fguilhermejp.com%2F&up_message=UP&style=for-the-badge&label=modpacks.com.br)](https://guilhermejp.com)
 [![Meu site](https://img.shields.io/website?url=https%3A%2F%2Fmodpacks.com.br%2F&up_message=UP&style=for-the-badge&label=modpacks.com.br)](https://modpacks.com.br)
 [![Meu site](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guimaxtr/)
 
 ## Sobre mim ✨
 
-Tenho 25 anos, sou entusiasta por hardware e tecnologia, meu foco é dia a dia melhorar a vida das pessoas através do desenvolvimento de software.
+Olá! 👋
+
+Sou um desenvolvedor full stack apaixonado por criar experiências digitais incríveis e imersivas. 🚀
+
+Adoro transformar ideias em realidade na web, tanto no front-end quanto no back-end. Do design de interfaces encantadoras à construção de APIs robustas, gosto de estar envolvido em todas as etapas do processo. 💡
+
+Atualmente, estou mergulhado no mundo JavaScript, explorando as maravilhas do React no front-end e Node.js no back-end. ⚛️
+
+Também sou fascinado por design e experiência do usuário, buscando sempre a melhor forma de apresentar informações e interações. 🎨
+
+Acredito que a colaboração é a chave para o sucesso e estou sempre em busca de novas oportunidades para aprender e crescer com outros desenvolvedores. 🤝
+
+Se você tem um projeto desafiador e quer criar algo incrível juntos, me chame para bater um papo! 💬
 
 #### Curiosidades 🤓
 
-Sou apaixonado por desenvolvimento de jogos e fã de carteirinha por RPG.
+- Sou apaixonado por desenvolvimento de jogos e fã de carteirinha por RPG.
+- Quase instrutor de taekwondo
+- Amo simuladores, quanto mais complexo e desafiador, melhor!
 
 ## Formação Acadêmica 🎓
 **Tecnólogo**: Analise e desenvolvimento de sistemas na universidade **Estácio** ✅ 2023
