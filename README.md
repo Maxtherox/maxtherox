@@ -48,6 +48,7 @@ Se você tem um projeto desafiador e quer criar algo incrível juntos, me chame 
     <img align="center" alt="JSON WEBTOKEN" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" />
     <img align="center" alt="REACT-ROUTER" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
     <img align="center" alt="MATERIAL UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
+    <img align="center" alt="NGINX" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
 </div>
 
 ## Tecnologias que tenho conhecimento
@@ -73,8 +74,8 @@ Se você tem um projeto desafiador e quer criar algo incrível juntos, me chame 
     <img align="center" alt="LINUX" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     <img align="center" alt="MAC OS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
     <img align="center" alt="WINDOWS" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
- 
-
+    <img align="center" alt="FREEBSD" src="https://img.shields.io/badge/-FreeBSD-%23870000?style=for-the-badge&logo=freebsd&logoColor=white" />
+    
 </div>
 
 ## Workspace specs
