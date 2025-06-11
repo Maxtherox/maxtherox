@@ -8,17 +8,17 @@
 
 Olá! 👋
 
-Sou um desenvolvedor full stack apaixonado por criar experiências digitais incríveis e imersivas. 🚀
+Sou um desenvolvedor full stack com foco em criar **soluções web e mobile modernas, performáticas e escaláveis**. Atuo no desenvolvimento de ponta a ponta — da arquitetura do backend à entrega de interfaces eficientes e responsivas no frontend.
 
-Adoro transformar ideias em realidade na web, tanto no front-end quanto no back-end. Do design de interfaces encantadoras à construção de APIs robustas, gosto de estar envolvido em todas as etapas do processo. 💡
+Tenho sólida experiência com **React** e **Node.js**, ferramentas que utilizo no dia a dia para construir desde sistemas empresariais até produtos digitais voltados ao usuário final.
 
-Atualmente, estou mergulhado no mundo JavaScript, explorando as maravilhas do React no front-end e Node.js no back-end. ⚛️
+Atualmente, estou me especializando em **SEO técnico**, **Next.js** e **Integrações com IA** — buscando sempre elevar o desempenho, a acessibilidade e o impacto das aplicações que construo.
 
-Também sou fascinado por design e experiência do usuário, buscando sempre a melhor forma de apresentar informações e interações. 🎨
+Acredito que bons projetos nascem do equilíbrio entre código limpo, visão estratégica e atenção à experiência do usuário. Trabalho com foco em resultado e sou movido por desafios que exigem raciocínio técnico e criatividade.
 
-Acredito que a colaboração é a chave para o sucesso e estou sempre em busca de novas oportunidades para aprender e crescer com outros desenvolvedores. 🤝
+Se você está buscando alguém para desenvolver uma solução robusta, otimizada e alinhada com as tendências atuais da web — vamos conversar! 💬
 
-Se você tem um projeto desafiador e quer criar algo incrível juntos, me chame para bater um papo! 💬
+🔗 **Quer ver meus projetos na prática?** Acesse meu portfólio em [guilhermejp.com](https://guilhermejp.com/) e conheça de perto as soluções que venho desenvolvendo.
 
 #### Curiosidades 🤓
 
