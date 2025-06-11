@@ -47,25 +47,7 @@ Se você está buscando alguém para desenvolver uma solução robusta, otimizad
     <img align="center" alt="NGINX" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
 </div>
 
-## Tecnologias que tenho conhecimento básico ou intermediário
-
-<div style="display: inline_block"><br/>
-    <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-    <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-    <img align="center" alt="Angular" src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" />
-    <img align="center" alt="Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img align="center" alt="Typescript" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-    <br>
-    <br>
-    <img align="center" alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
-    <img align="center" alt="FIGMA" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-     <img align="center" alt="AZURE" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-    <img align="center" alt="OFFICE" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
-    <br>
-    <br> 
-</div>
-
-## Sistemas operacionais favoritos
+## SO favoritos
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="LINUX" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
