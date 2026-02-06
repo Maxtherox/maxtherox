@@ -1,68 +1,49 @@
-### Hello World! Guilherme aqui 🫡
+## 👋 Hello, I’m Guilherme JP
 
-[![Meu site](https://img.shields.io/website?url=https%3A%2F%2Fguilhermejp.com%2F&up_message=UP&style=for-the-badge&label=guilhermejp.com)](https://guilhermejp.com)
-[![Meu site](https://img.shields.io/website?url=https%3A%2F%2Fmodpacks.com.br%2F&up_message=UP&style=for-the-badge&label=modpacks.com.br)](https://modpacks.com.br)
-[![Meu site](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guimaxtr/)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fguilhermejp.com%2F\&up_message=ONLINE\&style=for-the-badge\&label=guilhermejp.com)](https://guilhermejp.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/guimaxtr/)
 
-## Sobre mim ✨
+---
 
-Olá! 👋
+## 👨‍💻 About Me
 
-Sou um desenvolvedor full stack com foco em criar **soluções web e mobile modernas, performáticas e escaláveis**. Atuo no desenvolvimento de ponta a ponta — da arquitetura do backend à entrega de interfaces eficientes e responsivas no frontend.
+I am a **Full Stack Developer**, studying software development since **2021** and graduated in **Systems Analysis and Development (2023)**. I have hands-on experience across corporate environments, freelancing, and end-to-end delivery of digital solutions for mid-sized companies.
 
-Tenho sólida experiência com **React** e **Node.js**, ferramentas que utilizo no dia a dia para construir desde sistemas empresariais até produtos digitais voltados ao usuário final.
+I worked as **IT and DevOps** at **Ambev / AB InBev** from **2022 to 2023 (1 year and 8 months)**, where I built a strong technical foundation in **Node.js**, automation, infrastructure, and support for critical systems in high-demand environments.
 
-Atualmente, estou me especializando em **SEO técnico**, **Next.js** e **Integrações com IA** — buscando sempre elevar o desempenho, a acessibilidade e o impacto das aplicações que construo.
+I completed professional training in **React and Node.js at Rocketseat**, and worked as a **freelance developer** from mid **2023 to mid 2025**, delivering APIs, dashboards, internal systems, and custom web applications.
 
-Acredito que bons projetos nascem do equilíbrio entre código limpo, visão estratégica e atenção à experiência do usuário. Trabalho com foco em resultado e sou movido por desafios que exigem raciocínio técnico e criatividade.
+From **2025 onward**, I specialized as a **Full Stack Developer**, leading and executing complete solutions for organizations such as **Liga Nacional de Taekwondo** and **VidelTel Logistics & Transportation**. My work covered the full lifecycle:
 
-Se você está buscando alguém para desenvolver uma solução robusta, otimizada e alinhada com as tendências atuais da web — vamos conversar! 💬
+* Software architecture
+* Backend and frontend development
+* Software engineering
+* Business analysis
+* Process optimization and efficiency gains
 
-🔗 **Quer ver meus projetos na prática?** Acesse meu portfólio em [guilhermejp.com](https://guilhermejp.com/) e conheça de perto as soluções que venho desenvolvendo.
+Since **October 2025**, I have been working as a **Frontend Developer** at a **fund management company (Sparta)**, contributing to business-critical applications with a strong focus on performance, code quality, scalability, and reliability.
 
-#### Curiosidades 🤓
+I combine **technical depth, product thinking, and business awareness** to deliver solutions aligned with real-world objectives.
 
-- Sou apaixonado por desenvolvimento de jogos e fã de carteirinha por RPG.
-- Quase instrutor de taekwondo
-- Amo simuladores, quanto mais complexo e desafiador, melhor!
+---
 
-## Formação Acadêmica 🎓
-**Tecnólogo**: Analise e desenvolvimento de sistemas na universidade **Estácio** ✅ 2023
-
-
-## Tecnologias que eu uso no dia a dia
-<div style="display: inline_block"><br/>
-    <img align="center" alt="NodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-    <br>
-    <br>
-    <img align="center" alt="POSTGRES" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img align="center" alt="SQLITE" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-    <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img align="center" alt="JEST" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
-    <img align="center" alt="STYLED-COMPONENT" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
-    <img align="center" alt="JSON WEBTOKEN" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" />
-    <img align="center" alt="MATERIAL UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
-    <img align="center" alt="NGINX" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
-</div>
-
-## SO favoritos
+## 🛠️ Core Technologies
 
 <div style="display: inline_block"><br/>
-    <img align="center" alt="LINUX" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-    <img align="center" alt="MAC OS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
-    <img align="center" alt="WINDOWS" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-    <img align="center" alt="FREEBSD" src="https://img.shields.io/badge/-FreeBSD-%23870000?style=for-the-badge&logo=freebsd&logoColor=white" />
+  <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img align="center" alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </div>
 
-## Workspace specs
+---
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="RYZEN 7 5800X" src="https://img.shields.io/badge/AMD-Ryzen_7_5800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
-    <img align="center" alt="NVIDIA RTX 3080" src="https://img.shields.io/badge/NVIDIA-RTX 3080-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-</div>
+## 📊 GitHub Activity
 
-## Meus commits
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxtherox&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxtherox&layout=compact&theme=dracula)
+> Public contributions reflect personal projects and open work.
+> Most professional development is performed in private repositories.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maxtherox\&show_icons=true\&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxtherox\&layout=compact\&theme=dracula)
