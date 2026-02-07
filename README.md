@@ -42,8 +42,7 @@ I combine **technical depth, product thinking, and business awareness** to deliv
 
 ## 📊 GitHub Activity
 
-> Public contributions reflect personal projects and open work.
-> Most professional development is performed in private repositories.
+![Stats](https://github-readme-stats-fast-l6cb.vercel.app/api/?username=maxtherox&count_private=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats-fast-l6cb.vercel.app/api/top-langs/?username=maxtherox&count_private=true&layout=compact)
+![Streak](https://github-readme-stats-fast-l6cb.vercel.app/api/streak/?username=maxtherox)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maxtherox\&show_icons=true\&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxtherox\&layout=compact\&theme=dracula)
