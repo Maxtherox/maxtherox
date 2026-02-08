@@ -40,6 +40,8 @@ I combine **technical depth, product thinking, and business awareness** to deliv
 
 ---
 
+[Developer at Sparta fundos de investimentos](https://www.sparta.com.br/fundos/)
+
 ## 📊 GitHub Activity
 
 ![Stats](https://github-readme-stats-fast-l6cb.vercel.app/api/?username=maxtherox&count_private=true&include_all_commits=true)
