@@ -45,7 +45,7 @@ I combine **technical depth, product thinking, and business awareness** to deliv
 
 ## 📊 GitHub Activity
 
-![Stats](https://github-readme-stats-fast-l6cb.vercel.app/api/?username=maxtherox&count_private=true&include_all_commits=true)
+![Stats](https://github-readme-stats-fast-6e3a-git-main-maxtheroxs-projects.vercel.app/api/?username=maxtherox&count_private=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats-fast-l6cb.vercel.app/api/top-langs/?username=maxtherox&count_private=true&layout=compact)
 ![Streak](https://github-readme-stats-fast-l6cb.vercel.app/api/streak/?username=maxtherox)
 
