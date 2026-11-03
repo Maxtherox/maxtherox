@@ -1,0 +1,57 @@
+# Regenerates the README cards and the contribution snake, and publishes them to the
+# `output` branch. The README links to raw.githubusercontent.com/.../output/*.svg.
+#
+# Optional secret METRICS_TOKEN: a fine-grained PAT with read access to all your
+# repositories (Metadata: read). Without it the languages card only sees public repos.
+name: Profile cards
+
+on:
+  schedule:
+    - cron: "0 9 * * *" # 06:00 BRT
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/scripts/**"
+      - ".github/workflows/profile.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-cards
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Generate cards
+        env:
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN || github.token }}
+          GH_USER: ${{ github.repository_owner }}
+        run: node .github/scripts/profile-cards.mjs dist
+
+      - name: Generate contribution snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-light.svg?color_snake=#7c3aed&color_dots=#ebedf0,#c7d2fe,#a5b4fc,#818cf8,#4f46e5
+            dist/snake-dark.svg?color_snake=#bb9af7&color_dots=#161b22,#1e2a4a,#2f4580,#5b7be0,#7aa2f7
+
+      - name: Publish to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: false
+          commit_message: "chore: update profile cards"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

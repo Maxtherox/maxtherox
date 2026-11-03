@@ -1,51 +1,174 @@
-## 👋 Hello, I’m Guilherme JP
+<!-- Header -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:7aa2f7,50:9d8cf5,100:bb9af7&section=header&text=Guilherme%20JP&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer&descSize=18&descAlignY=58&animation=fadeIn" alt="Guilherme JP — Full Stack Developer"/>
+</p>
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fguilhermejp.com%2F&up_message=ONLINE&style=for-the-badge&label=guilhermejp.com)](https://guilhermejp.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/guimaxtr/)
+<p align="center">
+  <a href="https://guilhermejp.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=640&lines=Frontend+Developer+%40+Sparta;React+%C2%B7+Node.js+%C2%B7+TypeScript;From+game+engine+to+live+ops+on+an+MMORPG;Shipping+end-to-end+products+since+2021" alt="Typing SVG"/>
+  </a>
+</p>
 
----
-
-## 👨‍💻 About Me
-
-I am a **Full Stack Developer**, studying software development since **2021** and graduated in **Systems Analysis and Development (2023)**. I have hands-on experience across corporate environments, freelancing, and end-to-end delivery of digital solutions for mid-sized companies.
-
-I worked as **IT and DevOps** at **Ambev / AB InBev** from **2022 to 2023 (1 year and 8 months)**, where I built a strong technical foundation in **Node.js**, automation, infrastructure, and support for critical systems in high-demand environments.
-
-I completed professional training in **React and Node.js at Rocketseat**, and worked as a **freelance developer** from mid **2023 to mid 2025**, delivering APIs, dashboards, internal systems, and custom web applications.
-
-From **2025 onward**, I specialized as a **Full Stack Developer**, leading and executing complete solutions for organizations such as **Liga Nacional de Taekwondo** and **VidelTel Logistics & Transportation**. My work covered the full lifecycle:
-
-* Software architecture
-* Backend and frontend development
-* Software engineering
-* Business analysis
-* Process optimization and efficiency gains
-
-Since **October 2025**, I have been working as a **Frontend Developer** at a **fund management company (Sparta)**, contributing to business-critical applications with a strong focus on performance, code quality, scalability, and reliability.
-
-I combine **technical depth, product thinking, and business awareness** to deliver solutions aligned with real-world objectives.
+<p align="center">
+  <a href="https://guilhermejp.com"><img src="https://img.shields.io/website?url=https%3A%2F%2Fguilhermejp.com&up_message=online&style=for-the-badge&label=guilhermejp.com&labelColor=0d1117&color=7aa2f7&logo=googlechrome&logoColor=white" alt="Website"/></a>
+  <a href="https://www.linkedin.com/in/guimaxtr/"><img src="https://img.shields.io/badge/LinkedIn-guimaxtr-0A66C2?style=for-the-badge&labelColor=0d1117&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.sparta.com.br/fundos/"><img src="https://img.shields.io/badge/Now-Sparta-bb9af7?style=for-the-badge&labelColor=0d1117&logo=briefcase&logoColor=white" alt="Currently at Sparta"/></a>
+  <img src="https://komarev.com/ghpvc/?username=maxtherox&style=for-the-badge&color=2ac3de&label=Profile+views" alt="Profile views"/>
+</p>
 
 ---
 
-## 🛠️ Core Technologies
+## 👨‍💻 About me
 
-<div style="display: inline_block"><br/>
-  <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img align="center" alt="Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img align="center" alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-  <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</div>
+I'm a **Full Stack Developer** who has been building software since **2021**, with a degree in **Systems Analysis and Development (2023)**. I like owning a product end to end: architecture, backend, frontend, infrastructure and the business problem behind it.
+
+- 🏦 **Now** — Frontend Developer at **[Sparta](https://www.sparta.com.br/fundos/)** (fund management), working on business-critical apps with a focus on performance, code quality and reliability.
+- 🐉 **After hours** — building **Roxly**, a live MMORPG, from the C++ engine to the launcher, tooling and production servers.
+- 🧠 **How I work** — technical depth + product thinking + business awareness. I ship things that solve the real problem.
+
+<details>
+<summary><b>📍 Career timeline</b></summary>
+<br/>
+
+| When | Where | What |
+|---|---|---|
+| **Oct 2025 → now** | Sparta | Frontend Developer: business-critical applications for a fund manager |
+| **2025** | Liga Nacional de Taekwondo · VidelTel | Full Stack: led complete solutions, from architecture and business analysis to delivery |
+| **2023 → 2025** | Freelance | APIs, dashboards, internal systems and custom web apps for mid-sized companies |
+| **2022 → 2023** | Ambev / AB InBev | IT & DevOps (1 yr 8 mo): Node.js, automation, infrastructure, support for critical systems |
+| **2023** | Rocketseat · College | React & Node.js professional training · Systems Analysis and Development degree |
+
+</details>
 
 ---
 
-[Developer at Sparta fundos de investimentos](https://www.sparta.com.br/fundos/)
+## 🛠️ Tech stack
 
-## 📊 GitHub Activity
+<table align="center">
+  <tr>
+    <td align="center" width="140"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,tailwind,html,css&perline=8" alt="Frontend"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,py,dotnet,discord&perline=8" alt="Backend"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Infra & DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,nginx,linux,debian,bash,powershell,githubactions,vercel&perline=8" alt="Infra and DevOps"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Desktop, games<br/>& systems</b></td>
+    <td><img src="https://skillicons.dev/icons?i=cpp,cs,lua,rust,tauri,visualstudio,vscode&perline=8" alt="Desktop, games and systems"/></td>
+  </tr>
+</table>
 
-![Stats](https://github-readme-stats-fast-6e3a-git-main-maxtheroxs-projects.vercel.app/api/?username=maxtherox&count_private=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats-fast-l6cb.vercel.app/api/top-langs/?username=maxtherox&count_private=true&layout=compact)
-![Streak](https://github-readme-stats-fast-l6cb.vercel.app/api/streak/?username=maxtherox)
+---
 
+## 🚀 Featured work
+
+> Most of these live in private repositories. Happy to walk through any of them.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🐉 Roxly — live MMORPG</h3>
+      An MMORPG in closed beta, built on a legacy C++ codebase. I ported the server from FreeBSD to Linux and run it in Docker in production. On the client I upgraded the renderer (Direct3D 9Ex, volumetric clouds, dynamic weather, procedural grass, shadows) and built dozens of gameplay systems end to end in C++, Python UI and Lua quests.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛰️ Roxly Launcher</h3>
+      Desktop launcher and auto-updater. Signed manifests, incremental per-file delivery, integrity verification and self-update. Players' settings are never overwritten. A local publishing assistant turns a release into a guided prepare → review → publish → verify flow.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Tauri_2-24C8DB?style=flat-square&logo=tauri&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧰 Roxly Studio</h3>
+      Desktop CMS for the game's data: CMS-style editors for items, monsters, drops, shops, dungeons and the in-game cash shop, plus a remote panel that deploys to the production server on save.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🥋 Liga Nacional de Taekwondo</h3>
+      The league's official platform, built full stack: registrations, events and championship management, with containerized deployment behind Nginx.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚚 VidelTel Freight Planner</h3>
+      Freight planning tool for VidelTel Logistics & Transportation. It turns the company's day-to-day logistics process into a web app.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 Community bots & modding</h3>
+      Discord bots for the Roxly and Modpacks Reborn communities: wiki lookup, support, bug reports, announcements, polls and anti-spam. I also maintain the <b>MaxTR Skyrim modpack</b> and its supporter installer.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/discord.py-5865F2?style=flat-square&logo=discord&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Maxtherox/maxtherox/output/overview-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Maxtherox/maxtherox/output/overview-light.svg"/>
+    <img width="49%" alt="Contribution overview" src="https://raw.githubusercontent.com/Maxtherox/maxtherox/output/overview-dark.svg"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Maxtherox/maxtherox/output/languages-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Maxtherox/maxtherox/output/languages-light.svg"/>
+    <img width="49%" alt="Most used languages" src="https://raw.githubusercontent.com/Maxtherox/maxtherox/output/languages-dark.svg"/>
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Maxtherox/maxtherox/output/activity-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Maxtherox/maxtherox/output/activity-light.svg"/>
+    <img width="100%" alt="Contribution activity over the last 52 weeks" src="https://raw.githubusercontent.com/Maxtherox/maxtherox/output/activity-dark.svg"/>
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Maxtherox/maxtherox/output/snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Maxtherox/maxtherox/output/snake-light.svg"/>
+    <img width="100%" alt="Contribution snake" src="https://raw.githubusercontent.com/Maxtherox/maxtherox/output/snake-dark.svg"/>
+  </picture>
+</p>
+
+<p align="center"><sub>Cards are generated daily by a GitHub Action in this repo, with no third-party stats server involved.</sub></p>
+
+<!-- Footer -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:7aa2f7,50:9d8cf5,100:bb9af7&section=footer" alt=""/>
+</p>
