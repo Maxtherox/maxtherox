@@ -23,7 +23,7 @@
 I'm a **Full Stack Developer** who has been building software since **2021**, with a degree in **Systems Analysis and Development (2023)**. I like owning a product end to end: architecture, backend, frontend, infrastructure and the business problem behind it. More and more, that includes making the product **AI-maintainable** for the people who run it.
 
 - 🏦 **Now** — Full Stack Developer at **[Sparta](https://www.sparta.com.br/fundos/)** (fund management), mostly **Python** and **React**. I joined as a Frontend Developer and moved to full stack, working on business-critical apps with a focus on performance, code quality and reliability.
-- 🤖 **AI-ready delivery** — I build applications end to end so that **non-technical managers can maintain them with AI**: architecture, docs and guardrails that let an AI assistant work safely on the codebase, plus the **infrastructure** to run it all.
+- 🤖 **AI-ready delivery** — I build applications end to end so that **non-technical managers can maintain them with AI**: architecture, docs and guardrails that let an AI assistant work safely on the codebase, plus the **infrastructure** to run it all. Delivered this way for **Decmetal** and **VidelTel**.
 - 🐉 **After hours** — building **Roxly**, a live MMORPG, from the C++ engine to the launcher, tooling and production servers.
 - 🧠 **How I work** — technical depth + product thinking + business awareness. I ship things that solve the real problem.
 
@@ -115,7 +115,7 @@ I'm a **Full Stack Developer** who has been building software since **2021**, wi
   <tr>
     <td width="50%" valign="top">
       <h3>🚚 VidelTel Freight Planner</h3>
-      Freight planning tool for VidelTel Logistics & Transportation. It turns the company's day-to-day logistics process into a web app.
+      Freight planning tool for VidelTel Logistics & Transportation. It turns the company's day-to-day logistics process into a web app, delivered **AI-ready** so the team can maintain it with AI, on infrastructure I provide.
       <br/><br/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
