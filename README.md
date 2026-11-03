@@ -34,8 +34,9 @@ I'm a **Full Stack Developer** who has been building software since **2021**, wi
 | When | Where | What |
 |---|---|---|
 | **Oct 2025 → now** | Sparta | Full Stack Developer (Python + React), joined as Frontend Developer: business-critical applications for a fund manager |
-| **2025** | Liga Nacional de Taekwondo · VidelTel | Full Stack: led complete solutions, from architecture and business analysis to delivery |
-| **2023 → 2025** | Freelance | APIs, dashboards, internal systems and custom web apps for mid-sized companies |
+| **2025** | VidelTel Logistics & Transportation | Full Stack: freight planning platform, delivered AI-ready with the infrastructure to run it |
+| **2025** | Liga Nacional de Taekwondo | Full Stack: led the official platform, from architecture and business analysis to delivery |
+| **2021 → 2025** | Freelance | APIs, dashboards, internal systems and custom web apps for mid-sized companies |
 | **2022 → 2023** | Ambev / AB InBev | IT & DevOps (1 yr 8 mo): Node.js, automation, infrastructure, support for critical systems |
 | **2023** | Rocketseat · College | React & Node.js professional training · Systems Analysis and Development degree |
 
