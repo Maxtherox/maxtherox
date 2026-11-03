@@ -37,6 +37,7 @@ I'm a **Full Stack Developer** who has been building software since **2021**, wi
 | **2025** | VidelTel Logistics & Transportation | Full Stack: freight planning platform, delivered AI-ready with the infrastructure to run it |
 | **2025** | Liga Nacional de Taekwondo | Full Stack: led the official platform, from architecture and business analysis to delivery |
 | **2021 → 2025** | Freelance | APIs, dashboards, internal systems and custom web apps for mid-sized companies |
+| **2021 → 2024** | [Modpacks](https://modpacks.com.br) | Founder: curated Skyrim modpack with its own website, wiki, Discord community and a supporter-only installer |
 | **2022 → 2023** | Ambev / AB InBev | IT & DevOps (1 yr 8 mo): Node.js, automation, infrastructure, support for critical systems |
 | **2023** | Rocketseat · College | React & Node.js professional training · Systems Analysis and Development degree |
 
@@ -126,7 +127,7 @@ I'm a **Full Stack Developer** who has been building software since **2021**, wi
     </td>
     <td width="50%" valign="top">
       <h3>🤖 Community bots & modding</h3>
-      Discord bots for the Roxly and Modpacks Reborn communities: wiki lookup, support, bug reports, announcements, polls and anti-spam. I also maintain the <b>MaxTR Skyrim modpack</b> and its supporter installer.
+      Discord bots for the Roxly and Modpacks Reborn communities: wiki lookup, support, bug reports, announcements, polls and anti-spam. I also built the <b><a href="https://modpacks.com.br">MaxTR Skyrim modpack</a></b> (2021 → 2024) and its supporter installer.
       <br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/discord.py-5865F2?style=flat-square&logo=discord&logoColor=white"/>
