@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://guilhermejp.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=640&lines=Frontend+Developer+%40+Sparta;React+%C2%B7+Node.js+%C2%B7+TypeScript;From+game+engine+to+live+ops+on+an+MMORPG;Shipping+end-to-end+products+since+2021" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=640&lines=Full+Stack+Developer+%40+Sparta;Python+%C2%B7+React+%C2%B7+TypeScript+%C2%B7+Node.js;AI-ready+apps+that+non-devs+can+maintain;From+game+engine+to+live+ops+on+an+MMORPG" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -20,9 +20,10 @@
 
 ## 👨‍💻 About me
 
-I'm a **Full Stack Developer** who has been building software since **2021**, with a degree in **Systems Analysis and Development (2023)**. I like owning a product end to end: architecture, backend, frontend, infrastructure and the business problem behind it.
+I'm a **Full Stack Developer** who has been building software since **2021**, with a degree in **Systems Analysis and Development (2023)**. I like owning a product end to end: architecture, backend, frontend, infrastructure and the business problem behind it. More and more, that includes making the product **AI-maintainable** for the people who run it.
 
-- 🏦 **Now** — Frontend Developer at **[Sparta](https://www.sparta.com.br/fundos/)** (fund management), working on business-critical apps with a focus on performance, code quality and reliability.
+- 🏦 **Now** — Full Stack Developer at **[Sparta](https://www.sparta.com.br/fundos/)** (fund management), mostly **Python** and **React**. I joined as a Frontend Developer and moved to full stack, working on business-critical apps with a focus on performance, code quality and reliability.
+- 🤖 **AI-ready delivery** — I build applications end to end so that **non-technical managers can maintain them with AI**: architecture, docs and guardrails that let an AI assistant work safely on the codebase, plus the **infrastructure** to run it all.
 - 🐉 **After hours** — building **Roxly**, a live MMORPG, from the C++ engine to the launcher, tooling and production servers.
 - 🧠 **How I work** — technical depth + product thinking + business awareness. I ship things that solve the real problem.
 
@@ -32,7 +33,7 @@ I'm a **Full Stack Developer** who has been building software since **2021**, wi
 
 | When | Where | What |
 |---|---|---|
-| **Oct 2025 → now** | Sparta | Frontend Developer: business-critical applications for a fund manager |
+| **Oct 2025 → now** | Sparta | Full Stack Developer (Python + React), joined as Frontend Developer: business-critical applications for a fund manager |
 | **2025** | Liga Nacional de Taekwondo · VidelTel | Full Stack: led complete solutions, from architecture and business analysis to delivery |
 | **2023 → 2025** | Freelance | APIs, dashboards, internal systems and custom web apps for mid-sized companies |
 | **2022 → 2023** | Ambev / AB InBev | IT & DevOps (1 yr 8 mo): Node.js, automation, infrastructure, support for critical systems |
