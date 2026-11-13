@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="200" viewBox="0 0 480 200" role="img" aria-label="Maxtherox contribution overview">
+<title>Maxtherox contribution overview</title>
+<defs>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#3b5bdb"/><stop offset="1" stop-color="#7c3aed"/></linearGradient>
+  
+</defs>
+<style>
+  text{font-family:'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif;fill:#1f2328}
+  .muted{fill:#59636e} .title{font-size:15px;font-weight:600} .label{font-size:12px}
+  .big{font-size:30px;font-weight:700} .mid{font-size:20px;font-weight:700} .mono{font-family:'JetBrains Mono', 'Fira Code', Consolas, monospace}
+  .in{animation:fade .6s ease-out both}
+  @keyframes fade{from{opacity:0}}
+  @media (prefers-reduced-motion:reduce){.in{animation:none}}
+</style>
+<clipPath id="card"><rect x="0.5" y="0.5" width="479" height="199" rx="12"/></clipPath>
+<rect x="0.5" y="0.5" width="479" height="199" rx="12" fill="#ffffff"/>
+<rect x="0" y="0" width="480" height="3" fill="url(#accent)" clip-path="url(#card)"/>
+<rect x="0.5" y="0.5" width="479" height="199" rx="12" fill="none" stroke="#d0d7de"/>
+
+  <text x="24" y="36" class="title">Contribution overview</text>
+  <text x="456" y="36" text-anchor="end" class="label muted mono">since 2021</text>
+  
+  <g class="in" style="animation-delay:0s">
+    <text x="88" y="98" text-anchor="middle" class="big" style="fill:#3b5bdb">10,258</text>
+    <text x="88" y="122" text-anchor="middle" class="label">All-time</text>
+    <text x="88" y="140" text-anchor="middle" class="label muted">contributions</text>
+  </g>
+  <line x1="168" y1="72" x2="168" y2="146" stroke="#d0d7de"/>
+  
+  <g class="in" style="animation-delay:0.15s">
+    <text x="240" y="98" text-anchor="middle" class="big" style="fill:#e8590c">5d</text>
+    <text x="240" y="122" text-anchor="middle" class="label">Current streak</text>
+    <text x="240" y="140" text-anchor="middle" class="label muted">and counting</text>
+  </g>
+  <line x1="312" y1="72" x2="312" y2="146" stroke="#d0d7de"/>
+  
+  <g class="in" style="animation-delay:0.3s">
+    <text x="392" y="98" text-anchor="middle" class="big" style="fill:#7c3aed">45d</text>
+    <text x="392" y="122" text-anchor="middle" class="label">Longest streak</text>
+    <text x="392" y="140" text-anchor="middle" class="label muted">ended Mar 27, 2026</text>
+  </g>
+  <line x1="24" y1="160" x2="456" y2="160" stroke="#eaeef2"/>
+  <text x="24" y="182" class="label muted">2026: <tspan style="fill:#1f2328;font-weight:600">9,192</tspan></text>
+  <text x="240" y="182" text-anchor="middle" class="label muted">Best day: <tspan style="fill:#1f2328;font-weight:600">255</tspan></text>
+  <text x="456" y="182" text-anchor="end" class="label muted">Repositories: <tspan style="fill:#1f2328;font-weight:600">47</tspan></text>
+</svg>
