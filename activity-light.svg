@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="280" viewBox="0 0 980 280" role="img" aria-label="Maxtherox contribution activity">
+<title>Maxtherox contribution activity</title>
+<defs>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#3b5bdb"/><stop offset="1" stop-color="#7c3aed"/></linearGradient>
+  <linearGradient id="fill" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3b5bdb" stop-opacity=".45"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/></linearGradient>
+  <clipPath id="reveal"><rect x="0" y="0" width="980" height="280"><animate attributeName="width" from="0" to="980" dur="1.4s" fill="freeze" calcMode="spline" keySplines=".2 .7 .2 1" keyTimes="0;1"/></rect></clipPath>
+</defs>
+<style>
+  text{font-family:'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif;fill:#1f2328}
+  .muted{fill:#59636e} .title{font-size:15px;font-weight:600} .label{font-size:12px}
+  .big{font-size:30px;font-weight:700} .mid{font-size:20px;font-weight:700} .mono{font-family:'JetBrains Mono', 'Fira Code', Consolas, monospace}
+  .in{animation:fade .6s ease-out both}
+  @keyframes fade{from{opacity:0}}
+  @media (prefers-reduced-motion:reduce){.in{animation:none}}
+</style>
+<clipPath id="card"><rect x="0.5" y="0.5" width="979" height="279" rx="12"/></clipPath>
+<rect x="0.5" y="0.5" width="979" height="279" rx="12" fill="#ffffff"/>
+<rect x="0" y="0" width="980" height="3" fill="url(#accent)" clip-path="url(#card)"/>
+<rect x="0.5" y="0.5" width="979" height="279" rx="12" fill="none" stroke="#d0d7de"/>
+
+  <text x="24" y="36" class="title">Contribution activity</text>
+  <text x="956" y="36" text-anchor="end" class="label muted">last 52 weeks · <tspan style="fill:#1f2328;font-weight:600">9,446</tspan> contributions</text>
+  <line x1="56" y1="236.0" x2="956" y2="236.0" stroke="#eaeef2"/>
+  <text x="46" y="240.0" text-anchor="end" class="label muted mono">0</text><line x1="56" y1="193.0" x2="956" y2="193.0" stroke="#eaeef2" stroke-dasharray="3 4"/>
+  <text x="46" y="197.0" text-anchor="end" class="label muted mono">500</text><line x1="56" y1="150.0" x2="956" y2="150.0" stroke="#eaeef2" stroke-dasharray="3 4"/>
+  <text x="46" y="154.0" text-anchor="end" class="label muted mono">1,000</text><line x1="56" y1="107.0" x2="956" y2="107.0" stroke="#eaeef2" stroke-dasharray="3 4"/>
+  <text x="46" y="111.0" text-anchor="end" class="label muted mono">1,500</text><line x1="56" y1="64.0" x2="956" y2="64.0" stroke="#eaeef2" stroke-dasharray="3 4"/>
+  <text x="46" y="68.0" text-anchor="end" class="label muted mono">2,000</text>
+  <text x="73.6" y="262" text-anchor="middle" class="label muted">Dec</text><text x="144.2" y="262" text-anchor="middle" class="label muted">Jan</text><text x="232.5" y="262" text-anchor="middle" class="label muted">Feb</text><text x="303.1" y="262" text-anchor="middle" class="label muted">Mar</text><text x="373.6" y="262" text-anchor="middle" class="label muted">Apr</text><text x="444.2" y="262" text-anchor="middle" class="label muted">May</text><text x="532.5" y="262" text-anchor="middle" class="label muted">Jun</text><text x="603.1" y="262" text-anchor="middle" class="label muted">Jul</text><text x="673.6" y="262" text-anchor="middle" class="label muted">Aug</text><text x="761.9" y="262" text-anchor="middle" class="label muted">Sep</text><text x="832.5" y="262" text-anchor="middle" class="label muted">Oct</text><text x="920.7" y="262" text-anchor="middle" class="label muted">Nov</text>
+  <g clip-path="url(#reveal)">
+    <path d="M56.0,234.5 C58.9,234.1 67.8,232.9 73.6,232.6 C79.5,232.2 85.4,231.9 91.3,232.4 C97.2,232.8 103.1,234.8 108.9,235.2 C114.8,235.7 120.7,235.8 126.6,235.0 C132.5,234.2 138.4,231.3 144.2,230.4 C150.1,229.6 156.0,229.6 161.9,229.9 C167.8,230.2 173.6,231.5 179.5,232.2 C185.4,232.9 191.3,236.0 197.2,234.1 C203.1,228.5 208.9,204.6 214.8,198.8 C220.7,192.9 226.6,207.4 232.5,199.1 C238.4,190.8 244.2,158.0 250.1,149.1 C256.0,140.3 261.9,146.4 267.8,146.0 C273.6,145.5 279.5,146.5 285.4,146.6 C291.3,146.6 297.2,146.5 303.1,146.3 C308.9,146.1 314.8,143.3 320.7,145.1 C326.6,146.9 332.5,142.2 338.4,156.9 C344.2,171.5 350.1,220.6 356.0,233.0 C361.9,236.0 367.8,231.6 373.6,231.0 C379.5,230.5 385.4,230.9 391.3,229.7 C397.2,228.5 403.1,223.2 408.9,223.7 C414.8,224.2 420.7,231.9 426.6,232.6 C432.5,233.3 438.4,228.0 444.2,227.9 C450.1,227.8 456.0,231.1 461.9,232.1 C467.8,233.1 473.6,233.9 479.5,233.8 C485.4,233.8 491.3,231.6 497.2,231.8 C503.1,232.0 508.9,235.7 514.8,235.1 C520.7,234.5 526.6,228.6 532.5,228.2 C538.4,227.7 544.2,231.6 550.1,232.3 C556.0,233.0 561.9,232.2 567.8,232.1 C573.6,232.1 579.5,231.8 585.4,232.1 C591.3,232.5 597.2,233.7 603.1,234.3 C608.9,234.8 614.8,235.2 620.7,235.3 C626.6,235.5 632.5,236.0 638.4,235.1 C644.2,234.3 650.1,232.3 656.0,230.0 C661.9,227.6 667.8,220.4 673.6,221.1 C679.5,221.9 685.4,232.2 691.3,234.5 C697.2,236.0 703.1,235.4 708.9,234.4 C714.8,233.4 720.7,229.0 726.6,228.5 C732.5,228.0 738.4,230.2 744.2,231.3 C750.1,232.3 756.0,234.6 761.9,234.9 C767.8,235.2 773.6,233.6 779.5,233.2 C785.4,232.7 791.3,232.5 797.2,232.4 C803.1,232.2 808.9,231.9 814.8,232.2 C820.7,232.6 826.6,234.9 832.5,234.5 C838.4,234.0 844.2,231.9 850.1,229.7 C856.0,227.5 861.9,222.6 867.8,221.4 C873.6,220.2 879.5,222.6 885.4,222.6 C891.3,222.5 897.2,219.4 903.1,221.0 C908.9,222.7 914.8,230.9 920.7,232.5 C926.6,234.0 932.5,230.7 938.4,230.4 C944.2,230.2 953.1,230.8 956.0,230.9 L956.0,236 L56,236 Z" fill="url(#fill)"/>
+    <path d="M56.0,234.5 C58.9,234.1 67.8,232.9 73.6,232.6 C79.5,232.2 85.4,231.9 91.3,232.4 C97.2,232.8 103.1,234.8 108.9,235.2 C114.8,235.7 120.7,235.8 126.6,235.0 C132.5,234.2 138.4,231.3 144.2,230.4 C150.1,229.6 156.0,229.6 161.9,229.9 C167.8,230.2 173.6,231.5 179.5,232.2 C185.4,232.9 191.3,236.0 197.2,234.1 C203.1,228.5 208.9,204.6 214.8,198.8 C220.7,192.9 226.6,207.4 232.5,199.1 C238.4,190.8 244.2,158.0 250.1,149.1 C256.0,140.3 261.9,146.4 267.8,146.0 C273.6,145.5 279.5,146.5 285.4,146.6 C291.3,146.6 297.2,146.5 303.1,146.3 C308.9,146.1 314.8,143.3 320.7,145.1 C326.6,146.9 332.5,142.2 338.4,156.9 C344.2,171.5 350.1,220.6 356.0,233.0 C361.9,236.0 367.8,231.6 373.6,231.0 C379.5,230.5 385.4,230.9 391.3,229.7 C397.2,228.5 403.1,223.2 408.9,223.7 C414.8,224.2 420.7,231.9 426.6,232.6 C432.5,233.3 438.4,228.0 444.2,227.9 C450.1,227.8 456.0,231.1 461.9,232.1 C467.8,233.1 473.6,233.9 479.5,233.8 C485.4,233.8 491.3,231.6 497.2,231.8 C503.1,232.0 508.9,235.7 514.8,235.1 C520.7,234.5 526.6,228.6 532.5,228.2 C538.4,227.7 544.2,231.6 550.1,232.3 C556.0,233.0 561.9,232.2 567.8,232.1 C573.6,232.1 579.5,231.8 585.4,232.1 C591.3,232.5 597.2,233.7 603.1,234.3 C608.9,234.8 614.8,235.2 620.7,235.3 C626.6,235.5 632.5,236.0 638.4,235.1 C644.2,234.3 650.1,232.3 656.0,230.0 C661.9,227.6 667.8,220.4 673.6,221.1 C679.5,221.9 685.4,232.2 691.3,234.5 C697.2,236.0 703.1,235.4 708.9,234.4 C714.8,233.4 720.7,229.0 726.6,228.5 C732.5,228.0 738.4,230.2 744.2,231.3 C750.1,232.3 756.0,234.6 761.9,234.9 C767.8,235.2 773.6,233.6 779.5,233.2 C785.4,232.7 791.3,232.5 797.2,232.4 C803.1,232.2 808.9,231.9 814.8,232.2 C820.7,232.6 826.6,234.9 832.5,234.5 C838.4,234.0 844.2,231.9 850.1,229.7 C856.0,227.5 861.9,222.6 867.8,221.4 C873.6,220.2 879.5,222.6 885.4,222.6 C891.3,222.5 897.2,219.4 903.1,221.0 C908.9,222.7 914.8,230.9 920.7,232.5 C926.6,234.0 932.5,230.7 938.4,230.4 C944.2,230.2 953.1,230.8 956.0,230.9" fill="none" stroke="url(#accent)" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+  <g class="in" style="animation-delay:1.2s">
+    <circle cx="320.7" cy="145.1" r="5" fill="#ffffff" stroke="#e8590c" stroke-width="2.5"/>
+    <rect x="254.7" y="111.1" width="132" height="22" rx="6" fill="#ffffff" stroke="#d0d7de"/>
+    <text x="320.7" y="126.1" text-anchor="middle" class="label">Peak: <tspan style="font-weight:700;fill:#e8590c">1,057</tspan> / week</text>
+  </g>
+</svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="200" viewBox="0 0 480 200" role="img" aria-label="Maxtherox most used languages">
+<title>Maxtherox most used languages</title>
+<defs>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#3b5bdb"/><stop offset="1" stop-color="#7c3aed"/></linearGradient>
+  
+</defs>
+<style>
+  text{font-family:'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif;fill:#1f2328}
+  .muted{fill:#59636e} .title{font-size:15px;font-weight:600} .label{font-size:12px}
+  .big{font-size:30px;font-weight:700} .mid{font-size:20px;font-weight:700} .mono{font-family:'JetBrains Mono', 'Fira Code', Consolas, monospace}
+  .in{animation:fade .6s ease-out both}
+  @keyframes fade{from{opacity:0}}
+  @media (prefers-reduced-motion:reduce){.in{animation:none}}
+</style>
+<clipPath id="card"><rect x="0.5" y="0.5" width="479" height="199" rx="12"/></clipPath>
+<rect x="0.5" y="0.5" width="479" height="199" rx="12" fill="#ffffff"/>
+<rect x="0" y="0" width="480" height="3" fill="url(#accent)" clip-path="url(#card)"/>
+<rect x="0.5" y="0.5" width="479" height="199" rx="12" fill="none" stroke="#d0d7de"/>
+
+  <text x="24" y="36" class="title">Most used languages</text>
+  <text x="456" y="36" text-anchor="end" class="label muted mono">47 repos</text>
+  <clipPath id="barclip"><rect x="24" y="56" width="432" height="10" rx="5"/></clipPath>
+  <g clip-path="url(#barclip)"><rect x="24.00" y="56" width="294.50" height="10" fill="#f1e05a"/><rect x="320.50" y="56" width="91.25" height="10" fill="#e34c26"/><rect x="413.75" y="56" width="31.65" height="10" fill="#663399"/><rect x="447.40" y="56" width="8.60" height="10" fill="#7355dd"/></g>
+  <g class="in" style="animation-delay:0.00s">
+    <circle cx="29" cy="90" r="5" fill="#f1e05a"/>
+    <text x="42" y="94" class="label">JavaScript</text>
+    <text x="224" y="94" text-anchor="end" class="label muted mono">68.6%</text>
+  </g><g class="in" style="animation-delay:0.08s">
+    <circle cx="253" cy="90" r="5" fill="#e34c26"/>
+    <text x="266" y="94" class="label">HTML</text>
+    <text x="448" y="94" text-anchor="end" class="label muted mono">21.6%</text>
+  </g><g class="in" style="animation-delay:0.16s">
+    <circle cx="29" cy="116" r="5" fill="#663399"/>
+    <text x="42" y="120" class="label">CSS</text>
+    <text x="224" y="120" text-anchor="end" class="label muted mono">7.8%</text>
+  </g><g class="in" style="animation-delay:0.24s">
+    <circle cx="253" cy="116" r="5" fill="#7355dd"/>
+    <text x="266" y="120" class="label">C#</text>
+    <text x="448" y="120" text-anchor="end" class="label muted mono">2.0%</text>
+  </g>
+</svg>
